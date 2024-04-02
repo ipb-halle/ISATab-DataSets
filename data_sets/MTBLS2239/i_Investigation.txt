@@ -1,0 +1,93 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	OBI	EFO	NCIT	NCBITaxon	MTBLS	EDAM	IOBC	c	GAZ	ENVO
+Term Source File	http://data.bioontology.org/ontologies/OBI	http://data.bioontology.org/ontologies/EFO			https://www.ebi.ac.uk/metabolights/					
+Term Source Version	29	132			1.0					
+Term Source Description	Ontology for Biomedical Investigations	Experimental Factor Ontology			Metabolights Ontology					
+INVESTIGATION
+Investigation Identifier	MTBLS2239
+Investigation Title	Investigation
+Investigation Description	Created using the MetaboLights Online Editor (MOE)
+Investigation Submission Date	10/11/2023
+Investigation Public Release Date	2024-11-17
+Comment[Created With Configuration]	MetaboLightsConfig20150707
+Comment[Last Opened With Configuration]	MetaboLightsConfig20150707
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	MTBLS2239
+Study Title	Estimating phenotypic and molecular traits from integrative biodiversity data
+Study Description	<p>A reference dataset containing liquid chromatography high-resolution mass-spectrometry (UPLC/ESI-QTOF-MS) with data-dependent acquisition (DDA-MS) profiles of 16 specimens of thallose liverworts of biological soil crusts collected in Southern Sweden and Germany.</p>
+Study Submission Date	10/11/2023
+Study Public Release Date	2024-11-17
+Study File Name	s_MTBLS2239.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	Phenotype	bryophyte	Bryophyta environmental sample	Marchantiophyta	liquid chromatography-tandem mass spectrometry	Biodiversity	Marchantiales	Ricciaceae	Riccia	Cleveaceae	Athalamia	Aytoniaceae	Mannia	Asterella	Reboulia	Taxonomy	chemotaxonomy	Plant Ecology	Mannia gracilis	Clevea hyalina	Mannia fragrans	Reboulia hemisphaerica	Riccia beyrichiana	Riccia bifurca	Riccia canaliculata	Riccia cavernosa	Riccia ciliifera	riccia gothica	Riccia gougetiana	Riccia huebeneriana	Riccia sorocarpa	Riccia subbifurca
+Study Design Type Term Accession Number	http://purl.obolibrary.org/obo/NCIT_C16977	http://purl.obolibrary.org/obo/NCBITaxon_3208	http://purl.obolibrary.org/obo/NCBITaxon_261716	http://purl.obolibrary.org/obo/NCBITaxon_3195	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000045	http://edamontology.org/topic_3050	http://purl.obolibrary.org/obo/NCBITaxon_28908	http://purl.obolibrary.org/obo/NCBITaxon_41842	http://purl.obolibrary.org/obo/NCBITaxon_41843	http://purl.obolibrary.org/obo/NCBITaxon_122613	http://purl.obolibrary.org/obo/NCBITaxon_122614	http://purl.obolibrary.org/obo/NCBITaxon_37393	http://purl.obolibrary.org/obo/NCBITaxon_157221	http://purl.obolibrary.org/obo/NCBITaxon_56913	http://purl.obolibrary.org/obo/NCBITaxon_37394	http://purl.obolibrary.org/obo/NCIT_C17469	http://purl.jp/bio/4/id/200906067052891152	http://aims.fao.org/aos/agrovoc/c_5963	http://purl.obolibrary.org/obo/NCBITaxon_122620	http://purl.obolibrary.org/obo/NCBITaxon_122615	http://purl.obolibrary.org/obo/NCBITaxon_179045	http://purl.obolibrary.org/obo/NCBITaxon_37395	http://purl.obolibrary.org/obo/NCBITaxon_122635	http://purl.obolibrary.org/obo/NCBITaxon_2779757	http://purl.obolibrary.org/obo/NCBITaxon_2779758	http://purl.obolibrary.org/obo/NCBITaxon_122636	http://purl.obolibrary.org/obo/NCBITaxon_71659	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCBITaxon_122638	http://purl.obolibrary.org/obo/NCBITaxon_122639	http://purl.obolibrary.org/obo/NCBITaxon_122646	http://purl.obolibrary.org/obo/NCBITaxon_1914413
+Study Design Type Term Source REF	NCIT	NCBITaxon	NCBITaxon	NCBITaxon	MTBLS	EDAM	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCIT	IOBC	c	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon	MTBLS	NCBITaxon	NCBITaxon	NCBITaxon	NCBITaxon
+STUDY PUBLICATIONS
+Study PubMed ID
+Study Publication DOI
+Study Publication Author List
+Study Publication Title
+Study Publication Status
+Study Publication Status Term Accession Number
+Study Publication Status Term Source REF
+STUDY FACTORS
+Study Factor Name	biological soil crust community site	biological species
+Study Factor Type	soil biocrust	Species
+Study Factor Type Term Accession Number	http://purl.obolibrary.org/obo/ENVO_01000910	http://purl.obolibrary.org/obo/NCIT_C45293
+Study Factor Type Term Source REF	ENVO	NCIT
+STUDY ASSAYS
+Study Assay File Name	a_MTBLS2239_LC-MS_positive_reverse-phase_metabolite_profiling.txt	a_MTBLS2239_LC-MS_negative_reverse-phase_metabolite_profiling.txt
+Study Assay Measurement Type	metabolite profiling	metabolite profiling
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000366	http://purl.obolibrary.org/obo/OBI_0000366
+Study Assay Measurement Type Term Source REF	OBI	OBI
+Study Assay Technology Type	mass spectrometry	mass spectrometry
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000470	http://purl.obolibrary.org/obo/OBI_0000470
+Study Assay Technology Type Term Source REF	OBI	OBI
+Study Assay Technology Platform	Liquid Chromatography MS - positive - reverse phase	Liquid Chromatography MS - negative - reverse phase
+STUDY PROTOCOLS
+Study Protocol Name	Sample collection	Extraction	Chromatography	Mass spectrometry	Data transformation	Metabolite identification
+Study Protocol Type	Sample collection	Extraction	Chromatography	Mass spectrometry	Data transformation	Metabolite identification
+Study Protocol Type Term Accession Number						
+Study Protocol Type Term Source REF						
+Study Protocol Description	<p>Samples of were collected in the field and put in sterile petri dishes at locations in Southern Sweden in September 2022 and in Germany in October 2022. After an incubation period of five days, the plant material was isolated, washed under a light microscope to remove dirt and other residues, filled into Eppendorf tubes and shock-frozen (LC-MS analyses), or dried (marker sequencing). Remaining plant material was stored as voucher specimens in the Herbarium Haussknecht Jena (barcodes: JE04010739-JE04010754).</p>	<p>We followed extraction procedures for LC-MS originally developed for vascular plants by Blatt-Janmaat 2022 and adapted for the use with bryophytes and the different analytical setup used herein. This data-dependent acquisition method has been shown to provide robust results and high-quality spectra for thallose liverworts. In detail, frozen plants were homogenized for 5 minutes at 30 Hz in Teflon chambers equipped with two stainless steel balls. The chambers were rinsed with 100 µL of cold 80:20 MeOH:H2O supplemented with 2 µM 4-Methylumbelliferon, 5µM Kinetin (Sigma), 5µM Biochanin A (Sigma), and 5 µM N-(3-Indolylacetyl)-L-alanine (Sigma) and the slurry was shook at 1000 rpm for 15 minutes at room temperature. The mixture was centrifuged twice at 13000 rpm for 15 minutes and the supernatant was transferred to autosampler vials. </p>	<p>Samples were separated with an Agilent 1290 Infinity HPLC (Agilent, Waldbronn, Germany) equipped with a Nucleodur X18 Gravity-SB column (1.8µm 100x2 Macherey Nagel, Dueren, Germany).</p>	<p>A Bruker TIMS-TOF-MS (timsTOF Pro, Bruker, Bremen, Germany) was used for mass spectrometry analyses. Separations were performed at 35°C with the following binary gradient of 0.1% aqueous formic acid (solvent A) and acetonitrile (solvent B): isocratic 98% A for 1 minute; a linear gradient from 98% to 5% A from 1 to 14 minutes; isocratic 5% A from 14 to 17.5 minutes; isocratic 98% A from 18 to 20 minutes. The flow rate was maintained at 0.5mL/min, the injection chamber was maintained at 4°C. Injections were performed separately for positive and negative ionization mode. Data-dependent acquisition (DDA-MS) mode was used with the instrument settings.</p>	<p>Raw data converted into mzML format using msconvert. Data processing was performed in the statistical software environment R version 4.1.2 using the iESTIMATE framework (https://github.com/ipb-halle/iESTIMATE). Chromatographic peak detection was performed using the R package XCMS version 3.14.0. The following settings were used for the negative ion mode: CentWaveParam, ppm = 25, mzCenterFun = “mean”, peakwidth = c(7.2, 36), prefilter = c(2, 50), mzdiff = 0.0012, snthresh = 7, noise = 0, integrate = 1, firstBase-lineCheck = TRUE, verboseColumns = FALSE, fitgauss = FALSE, roiList = list(), roiScales = numeric()). For the positive ion mode different settings were used for: peakwidth = c(9.4, 32), prefilter = c(6, 51), mzdiff = -0.0043, snthresh = 2. Grouping of chromatographic peaks was performed before and after retention time correction with the following settings in both ion modes: PeakDensityParam, minFraction = 0.7, bw = 0.25, minSamples = 1, binSize = 0.5. Retention time correction was performed with the following settings: PeakGroupsParam, minFraction = 0.7, smooth = “loess”, span = 0.2, family = “gaussian”. Only metabolite features with retention times less than 1020 s were considered for further analysis. The MS1-level peak tables were created separately for positive and negative ion modes with the settings featureValues, method = “medret”, value = “into”. The peak tables were log2-transformed, and missing values were imputed with zeros. Histograms and PCA diagnostic plots were generated to additionally evaluate the distribution of the data. MS2-level fragment spectra (MS-MS spectra) that were acquired by the Data-Dependent Acquisition mode (DDA-MS) were extracted from the profiles using the chromPeakSpectra, msLevel = 2 L, return.type = “Spectra” settings of XCMS. Spectra obtained from the same precursor ion were combined using the combineSpectra function from the R package Spectra using the following settings: FUN = combinePeaks, ppm = 25, peaks = “union”, minProp = 0.8, intensityFun = median, mzFun = median, backend = MsBackendDataFrame. This step was performed separately for positive and negative ion modes. The MS1-level peak tables were then filtered to include only peaks for which the DDA-MS had acquired MS-MS fragment spectra. The spectra were saved in MSP and MGF files for further data processing. As standard variance and median values were within 10% deviations, the filtered MS1-level peak tables containing log-transformed abundances of peaks in positive and negative ion modes were joined and used for further statistical analyses. Presence/absence peak tables were also generated to contain whether a metabolite feature was detected in the profiles. Features with abundances less than 10−8 % of the median abundance were considered absent.</p>	<p>Annotation of MS-MS fragment spectra was carried out using the software SIRIUS version 5.6.1. The settings described in Peters et al.2023 were used for both ionizations. Annotation was accomplished automatically by selecting the highest-ranking candidate for each spectrum. If the software could provide a COSMIC score, the candidate with the highest-ranking COSMIC score was selected. The corresponding SMILES and the compound classification provided by the CANOPUS were extracted and stored for each spectrum. The classification provided by CANOPUS for each MS-MS fragment spectrum was aggregated and stored in a separate classification table. Compound classes were analyzed at the ChemOnt level of subclasses and superclasses. The classes were aggregated and counted for each spectrum found in a sample and multiplied by the peak abundances of the corresponding MS1 precursors. The same procedure was accomplished for classes obtained from the Natural Product Classifier. Molecular descriptors were calculated for the SMILES provided by SIRIUS using RCDK resulting in a data matrix with SMILES in rows and descriptors in columns. A data table was constructed corresponding to the feature table by performing a matrix operation of both tables. </p>
+Study Protocol URI						
+Study Protocol Version						
+Study Protocol Parameters Name		Post Extraction;Derivatization	Chromatography Instrument;Autosampler model;Column model;Column type;Guard column	Scan polarity;Scan m/z range;Instrument;Ion source;Mass analyzer		
+Study Protocol Parameters Name Term Accession Number		;	;;;;	;;;;		
+Study Protocol Parameters Name Term Source REF		;	;;;;	;;;;		
+Study Protocol Components Name						
+Study Protocol Components Type						
+Study Protocol Components Type Term Accession Number						
+Study Protocol Components Type Term Source REF						
+STUDY CONTACTS
+Study Person Last Name	Peters	Neumann
+Study Person First Name	Kristian	Steffen
+Study Person Mid Initials		
+Study Person Email	kpeters@ipb-halle.de	sneumann@ipb-halle.de
+Study Person Phone		
+Study Person Fax		
+Study Person Address		
+Study Person Affiliation		
+Study Person Roles	Principal Investigator	Supervisor
+Study Person Roles Term Accession Number	http://purl.obolibrary.org/obo/NCIT_C19924	http://purl.obolibrary.org/obo/NCIT_C134832
+Study Person Roles Term Source REF	NCIT	NCIT
