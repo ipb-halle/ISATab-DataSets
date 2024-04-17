@@ -1,0 +1,93 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	OBI	EFO	NCIT	MTBLS	GO
+Term Source File	http://data.bioontology.org/ontologies/OBI	http://data.bioontology.org/ontologies/EFO		https://www.ebi.ac.uk/metabolights/	
+Term Source Version	29	132		1.0	
+Term Source Description	Ontology for Biomedical Investigations	Experimental Factor Ontology		User defined terms	
+INVESTIGATION
+Investigation Identifier	MTBLS2240
+Investigation Title	Investigation
+Investigation Description	Created using the MetaboLights Online Editor (MOE)
+Investigation Submission Date	2020-11-10
+Investigation Public Release Date	2021-11-10
+Comment[Created With Configuration]	MetaboLightsConfig20150707
+Comment[Last Opened With Configuration]	MetaboLightsConfig20150707
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	MTBLS2240
+Study Title	A new paradigm of biofilm regulation
+Study Description	<p>For decades, researchers have explored biofilm formation, yet adherence to standard pathways has impeded breakthroughs. Our study reveals the role of methylerythritol cyclodiphosphate (MEcPP), a vital intermediate in the methylerythritol phosphate (MEP) pathway, as a biofilm regulator. Increased MEcPP levels, induced by genetic modification or oxidative stress, hinder biofilm formation. Interestingly, a genetic screen identified a mutant fimE that restores biofilm formation despite high MEcPP levels. Atomic force microscopy shows reduced fimbriae on MEcPP-enriched cells, suggesting MEcPP suppresses biofilm by affecting fimbriae production. Notably, MEcPP binds to histone-like nucleoid structuring (H-NS) protein, reducing its binding to the fimE promoter, thereby boosting fimE expression and decreasing fimbriae production. </p><p>To assess whether the genetic modifications induced notable metabolic changes, we conducted targeted metabolomic analyses focusing on central carbon and energy metabolism (CCEM) in the CRISPRi strain ispg-2d and the control (ctrl-d).</p><p>This study unveils a novel biofilm regulatory mechanism that signal metabolite MEcPP disengages H-NS from fimE transcriptional repression.</p>
+Study Submission Date	2020-11-10
+Study Public Release Date	2021-11-10
+Study File Name	s_MTBLS2240.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	targeted metabolites	central energy metabolism	biofilm formation
+Study Design Type Term Accession Number	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000272	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/GO_0042710
+Study Design Type Term Source REF	MTBLS	MTBLS	GO
+STUDY PUBLICATIONS
+Study PubMed ID	
+Study Publication DOI	
+Study Publication Author List	Jingzhe Guo, Wilhelmina van de Ven, Aleksandra Skirycz, Venkatesh P. Thirumalaikumar, Liping Zeng, Quanqing Zhang, Gerd Ulrich Balcke, Alain Tissier, Katayoon Dehesh
+Study Publication Title	A new paradigm of biofilm regulation
+Study Publication Status	In preparation
+Study Publication Status Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0001795
+Study Publication Status Term Source REF	EFO
+STUDY FACTORS
+Study Factor Name	Genotype
+Study Factor Type	Genotype
+Study Factor Type Term Accession Number	http://purl.obolibrary.org/obo/NCIT_C16631
+Study Factor Type Term Source REF	NCIT
+STUDY ASSAYS
+Study Assay File Name	a_MTBLS2240_LC-MS_negative__metabolite_profiling.txt
+Study Assay Measurement Type	metabolite profiling
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000366
+Study Assay Measurement Type Term Source REF	OBI
+Study Assay Technology Type	mass spectrometry
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000470
+Study Assay Technology Type Term Source REF	OBI
+Study Assay Technology Platform	Liquid Chromatography MS - negative
+STUDY PROTOCOLS
+Study Protocol Name	Sample collection	Extraction	Chromatography	Mass spectrometry	Data transformation	Metabolite identification
+Study Protocol Type	Sample collection	Extraction	Chromatography	Mass spectrometry	Data transformation	Metabolite identification
+Study Protocol Type Term Accession Number						
+Study Protocol Type Term Source REF						
+Study Protocol Description	<p>Five biological repeats of ispg-2d, ctrl-d strains were cultured in LB medium supplemented with appropriate antibiotics in 37 °C incubator shaker till late-logarithmic phase (OD600nm≈0.8). Bacteria pellets were collected and washed with deionized water by centrifugation at 4 °C, followed by freeze-drying.</p>	<p>30 mg of freeze-dried E.coli was extracted in a two phase extraction as described in [doi: 10.1105/tpc.17.00060] using 900 µL of dichloromethane/ ethanol (2:1, v/v) and 150 µL of aqueous hydrochloric acid of pH 1.4. After two rounds of extraction aqueous extracts were combined and stored at -80 °C until analysis.</p>	<p>Separation of hydrophilic metabolites was performed by ion-pairing chromatography on a Nucleoshell RP18 column (2.1 x 150 mm, particle size 2.1 µm, Macherey &amp; Nagel, GmbH, Düren, Germany) using a Waters ACQUITY UPLC System, equipped with an ACQUITY Binary Solvent Manager and ACQUITY Sample Manager (5 µL injection volume; Waters GmbH, Eschborn, Germany). Eluents A and B were aqueous 10 mmol/L tributyl amine (adjusted to pH 6.2 with glacial acetic acid) and acetonitrile, respectively. Elution was performed isocratically for 2 min with 2% eluent B, from 2 to 18 min with a linear gradient up to 36% B, and from 18-21 min up to 95% B, and isocratically from 21 min to 22.5 min with 95% B, from 22.51 to 26 min again down to 2% B. The flow rate was set to 400 µL/min, and the column temperature was maintained at 40 °C.</p>	<p>Mass spectrometric analyses of small molecules were performed by targeted MS/MS via multiple reaction monitoring (MRM) by using a QTRAP 6500 (AB Sciex GmbH, Darmstadt, Germany) operating in negative ionization mode and controlled by Analyst 1.7.1 (AB Sciex GmbH, Darmstadt, Germany). The source operation parameters were the following: ion spray voltage, -4500 V; nebulizing gas, 60 psi; source temperature, 450 °C; drying gas, 70 psi; curtain gas, 35 psi.</p>	<p>Peak integration was performed using the MultiQuant software version 3.0.3 (Sciex, Toronto, CA). Individual CCEM peak areas of n=5 biological replicates were normalized to the total peak area for each sample and averaged for the ispg-2d and the ctrl-d group, respectively. Finally, the group average of ispg-2d was divided by the average ctrl-d control samples. All area ratio data were logarithmized to the basis of 2.</p><p>The Sciex *.wiff files were converted to mzML with Proteowizard msconvert version 3.0.19142.</p>	<p>Data acquisition was performed in targeted approach based on known retention time and MS/MS multiple reaction monitoring.</p>
+Study Protocol URI						
+Study Protocol Version						
+Study Protocol Parameters Name		Post Extraction;Derivatization	Chromatography Instrument;Autosampler model;Column model;Column type;Guard column	Scan polarity;Scan m/z range;Instrument;Ion source;Mass analyzer		
+Study Protocol Parameters Name Term Accession Number		;	;;;;	;;;;		
+Study Protocol Parameters Name Term Source REF		;	;;;;	;;;;		
+Study Protocol Components Name						
+Study Protocol Components Type						
+Study Protocol Components Type Term Accession Number						
+Study Protocol Components Type Term Source REF						
+STUDY CONTACTS
+Study Person Last Name	Balcke
+Study Person First Name	Gerd
+Study Person Mid Initials	
+Study Person Email	Gerd.Balcke@ipb-halle.de
+Study Person Phone	
+Study Person Fax	
+Study Person Address	
+Study Person Affiliation	Leibniz Institute of Plant Biochemistry
+Study Person Roles	Investigator
+Study Person Roles Term Accession Number	http://purl.obolibrary.org/obo/NCIT_C25936
+Study Person Roles Term Source REF	NCIT
