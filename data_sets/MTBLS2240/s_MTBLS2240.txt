@@ -8,6 +8,6 @@ BAL_214_Ecoli-control Ecoli_2_1	Escherichia coli str. K-12 substr. MG1655	NCBITa
 BAL_214_Ecoli-control Ecoli_2_2	Escherichia coli str. K-12 substr. MG1655	NCBITaxon	http://purl.obolibrary.org/obo/NCBITaxon_511145	ctrl-d			Cell Pellet	NCIT	http://purl.obolibrary.org/obo/NCIT_C113745	30.3			Sample collection	BAL_214_Ecoli-control Ecoli_2_2	ctrl-d		
 BAL_214_Ecoli-control Ecoli_2_3	Escherichia coli str. K-12 substr. MG1655	NCBITaxon	http://purl.obolibrary.org/obo/NCBITaxon_511145	ctrl-d			Cell Pellet	NCIT	http://purl.obolibrary.org/obo/NCIT_C113745	32.4			Sample collection	BAL_214_Ecoli-control Ecoli_2_3	ctrl-d		
 BAL_214_Ecoli-control Ecoli_2_4	Escherichia coli str. K-12 substr. MG1655	NCBITaxon	http://purl.obolibrary.org/obo/NCBITaxon_511145	ctrl-d			Cell Pellet	NCIT	http://purl.obolibrary.org/obo/NCIT_C113745	32.5			Sample collection	BAL_214_Ecoli-control Ecoli_2_4	ctrl-d		
-BAL_214_Ecoli-control Ecoli_2_5	Escherichia coli str. K-12 substr. MG1655	NCBITaxon	http://purl.obolibrary.org/obo/NCBITaxon_511145	ctrl-d			Cell Pellet	NCIT	http://purl.obolibrary.org/obo/NCIT_C113745	32.2			Sample collection	BAL_214_Ecoli-control Ecoli_2_5			
-BAL_214_warmup_and_QC-H2O warmup													Sample collection	BAL_214_warmup_and_QC-H2O warmup			
-BAL_214_warmup_and_QC-NRG01													Sample collection	BAL_214_warmup_and_QC-NRG01			
+BAL_214_Ecoli-control Ecoli_2_5	Escherichia coli str. K-12 substr. MG1655	NCBITaxon	http://purl.obolibrary.org/obo/NCBITaxon_511145	ctrl-d			Cell Pellet	NCIT	http://purl.obolibrary.org/obo/NCIT_C113745	32.2			Sample collection	BAL_214_Ecoli-control Ecoli_2_5	ctrl-d		
+BAL_214_warmup_and_QC-H2O warmup	solvent blank	MSIO	http://purl.obolibrary.org/obo/MSIO_0000026				solvent blank						Sample collection	BAL_214_warmup_and_QC-H2O warmup			
+BAL_214_warmup_and_QC-NRG01	reference compound mix	MSIO	http://purl.obolibrary.org/obo/MSIO_0000024				reference compound mix						Sample collection	BAL_214_warmup_and_QC-NRG01			
